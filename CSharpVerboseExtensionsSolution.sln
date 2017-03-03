@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26206.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "CSharpVerboseExtensionsShared", "CSharpVerboseExtensionsShared\CSharpVerboseExtensionsShared.shproj", "{018F4EBF-4FD5-4E2A-8986-FC596E6D82E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpVerboseExtensionsNetFramework", "CSharpVerboseExtensionsNetFramework\CSharpVerboseExtensionsNetFramework.csproj", "{033BF80B-7A05-4899-A2B1-E87AC88C01BE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{C29DC594-3947-4BDE-A092-4F22E82E8CFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpVerboseExtensionsNetFrameworkTests", "Tests\CSharpVerboseExtensionsNetFrameworkTests\CSharpVerboseExtensionsNetFrameworkTests.csproj", "{8D5643B0-178A-4F52-88D1-AFDD7F1419AB}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		CSharpVerboseExtensionsShared\CSharpVerboseExtensionsShared.projitems*{018f4ebf-4fd5-4e2a-8986-fc596e6d82e2}*SharedItemsImports = 13
+		CSharpVerboseExtensionsShared\CSharpVerboseExtensionsShared.projitems*{033bf80b-7a05-4899-a2b1-e87ac88c01be}*SharedItemsImports = 4
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{033BF80B-7A05-4899-A2B1-E87AC88C01BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{033BF80B-7A05-4899-A2B1-E87AC88C01BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{033BF80B-7A05-4899-A2B1-E87AC88C01BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{033BF80B-7A05-4899-A2B1-E87AC88C01BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D5643B0-178A-4F52-88D1-AFDD7F1419AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D5643B0-178A-4F52-88D1-AFDD7F1419AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D5643B0-178A-4F52-88D1-AFDD7F1419AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D5643B0-178A-4F52-88D1-AFDD7F1419AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8D5643B0-178A-4F52-88D1-AFDD7F1419AB} = {C29DC594-3947-4BDE-A092-4F22E82E8CFC}
+	EndGlobalSection
+EndGlobal

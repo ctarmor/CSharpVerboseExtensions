@@ -1,0 +1,4 @@
+C:\Users\comte\Documents\GitDependencies\CSharpVerboseExtensions\CSharpVerboseExtensionsNetFramework\bin\Release\CSharpVerboseExtensionsNetFramework.dll
+C:\Users\comte\Documents\GitDependencies\CSharpVerboseExtensions\CSharpVerboseExtensionsNetFramework\bin\Release\CSharpVerboseExtensionsNetFramework.pdb
+C:\Users\comte\Documents\GitDependencies\CSharpVerboseExtensions\CSharpVerboseExtensionsNetFramework\obj\Release\CSharpVerboseExtensionsNetFramework.dll
+C:\Users\comte\Documents\GitDependencies\CSharpVerboseExtensions\CSharpVerboseExtensionsNetFramework\obj\Release\CSharpVerboseExtensionsNetFramework.pdb
